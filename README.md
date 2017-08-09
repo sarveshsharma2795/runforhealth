@@ -1,4 +1,5 @@
 Project Documentation
+
 Run for health
 ========
 This is an iOS application to track the distance travelled by the user and share the details with HealthKit.
@@ -7,7 +8,9 @@ Features
 --------
 This application has 3 buttons :
 Start/Stop : This  starts and stops the pedometer. The pedometer starts recording the number of steps and distance travelled when start button is pressed. Stop button is used to stop the pedometer
+
 Pause/Continue : Pause pauses the pedometer. The pedometer starts to function again from the point where pedometer was paused when continue is pressed.
+
 Share : The distance travelled by the user is sent to the health kit when this is pressed.
 
 Installation
